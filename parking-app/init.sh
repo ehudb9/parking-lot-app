@@ -5,7 +5,6 @@ sudo apt update
 sudo apt install python3-pip
 
 # installing aws cli
-# sudo apt install awscli
 sudo pip3 install --upgrade awscli
 
 # installing aws sam 
