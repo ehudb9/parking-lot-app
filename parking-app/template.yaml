@@ -3,10 +3,6 @@ Transform: AWS::Serverless-2016-10-31
 Description: >
   parking-app
 
-# Globals:
-#   Function:
-#     Timeout: 3
-
 Resources:
   
   ParkingLotEntryFunction:
