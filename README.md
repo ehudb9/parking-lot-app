@@ -1,4 +1,4 @@
-# **Parking App by Hilla, Or and Ehud**
+# **Parking App by Hila Mizrahi, Or Zachchinsky and Ehud Barda**
 
 **Please follow the following steps to start your parking app:**
 - 
