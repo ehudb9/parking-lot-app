@@ -3,9 +3,9 @@
 **Please follow the following steps to start your parking app:**
 - 
 
-**Step 1** - clone the parking app project from our repository - "https://github.com/orzach-idc/parking-app.git"
+**Step 1** - clone the parking-lot-app repository - "https://github.com/orzach-idc/parking-lot-app.git"
 
-**Step 2** - go to the parking-app folder in your terminal
+**Step 2** - go to the parking-app folder inside the cloned repository in your terminal
 
 **Step 3** - run the init.sh script - "./init.sh" 
 
